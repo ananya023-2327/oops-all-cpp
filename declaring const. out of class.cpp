@@ -27,3 +27,5 @@ using namespace std;
     s.display();
     return 0;
 }
+
+//experimenting by placing the contructor out of the class. et voila, nothing changes. 
