@@ -1,12 +1,13 @@
 # oops-all-cpp
 
-Welcome to oops-all-cpp! This repository serves as a focused collection of C++ programs, each meticulously crafted to illuminate a specific concept within Object-Oriented Programming (OOPs). It's designed to be a clear and accessible resource, providing practical examples to deepen your understanding of OOP principles.
-What's Inside?
+Welcome to oops-all-cpp! This repository serves as a focused collection of C++ programs, each meticulously crafted and guided by my own journey to illuminate a specific concept within Object-Oriented Programming (OOPs). It's designed to be a clear and accessible resource, providing practical examples to deepen your understanding of OOP principles.
+
+## What's Inside?
 
 This repository is structured to guide you through various OOP topics, with each file demonstrating a key concept:
 Classes and Objects Fundamentals
 
-These examples lay the groundwork, introducing the core ideas of defining classes, instantiating objects, and managing their members.
+### These examples lay the groundwork, introducing the core ideas of defining classes, instantiating objects, and managing their members.
 
     class_addition.cpp: A straightforward class demonstrating basic arithmetic operations.
 
@@ -26,7 +27,7 @@ These examples lay the groundwork, introducing the core ideas of defining classe
 
     volume of cuboid.cpp: Calculates the volume of a cuboid using an object-oriented approach.
 
-Constructors and Destructors
+### Constructors and Destructors
 
 Understand the lifecycle of objects, from their creation to their destruction, and how to manage associated resources.
 
@@ -40,7 +41,7 @@ Understand the lifecycle of objects, from their creation to their destruction, a
 
     parameterized.cpp: A general example involving the use of parameters, applicable to constructors or functions.
 
-Inheritance
+### Inheritance
 
 Discover how classes can inherit attributes and behaviors from other classes, a cornerstone of code reusability and hierarchical design.
 
@@ -54,7 +55,7 @@ Discover how classes can inherit attributes and behaviors from other classes, a 
 
     single inheritance_library management .cpp: A clear example of single inheritance applied to library management.
 
-Pointers and Dynamic Memory
+### Pointers and Dynamic Memory
 
 Delve into memory management in C++ and the versatile applications of pointers.
 
@@ -76,13 +77,13 @@ Delve into memory management in C++ and the versatile applications of pointers.
 
     squaring by var point to func.cpp: Uses a pointer to a function to perform a squaring operation.
 
-Operator Overloading
+### Operator Overloading
 
 Learn to customize the behavior of operators for your own defined data types, enhancing code readability and expressiveness.
 
     operator_overloading.cpp: A practical demonstration of overloading an operator.
 
-Constant Members
+### Constant Members
 
 Understand how to define and utilize constant members within your classes, ensuring data integrity.
 
@@ -90,7 +91,7 @@ Understand how to define and utilize constant members within your classes, ensur
 
     simple const.cpp: A basic example illustrating the application of the const keyword.
 
-How to Use These Examples
+## How to Use These Examples
 
 Getting started with these examples is straightforward:
 
@@ -109,6 +110,6 @@ Getting started with these examples is straightforward:
 
     This command will compile the source file into an executable named class_addition, which you can then run.
 
-We Hope This Helps!
+I Hope This Helps!
 
-We trust that this collection of examples will be a valuable asset on your journey to mastering C++ OOP. Happy coding and exploring!
+I trust that this collection of examples will be a valuable asset on your journey to mastering C++ OOP. I will be updating as I continue expanding my own knowledge on the subject, so make sure to check back in for any new additions should you happen to need them. Happy coding and exploring!
